@@ -1,4 +1,4 @@
-# GBcoin
+# GBcoin (GBCN)
 GBCoin
 
 GBcoin (GBCN) New Crypto Currency for the RUSSIA GB Grande Finance
