@@ -45,4 +45,4 @@ Many traders all over the world choose GBCoin. Soon we'll take our place on the 
 GBCoin has volatility, liquidity and other financial and economic indicators as fiat funds.
 When GBCoin is released on world markets its price will rise, since
 GBCoin is supported by financial structures that work for the benefit of everyone.
-Denomination of GBCoin cent - 0,01c; 0,10c; 0,25c; 0,50c as Bitcoin - Satoshi.
+Denomination of GBCoin cent - 0,01c; 0,10c; 0,25c; 0,50c.
